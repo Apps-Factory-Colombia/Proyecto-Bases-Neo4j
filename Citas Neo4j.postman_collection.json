@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "a432b481-c91a-4373-9274-37006ff2f3ff",
+		"name": "Citas Neo4j",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "12293707"
+	},
+	"item": [
+		{
+			"name": "Obtener Citas",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Obtener Cita por ID",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
